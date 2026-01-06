@@ -165,3 +165,4 @@ This project is **open-source** and available under the **MIT License**.
 > **Author:** Manav Solanki  
 > **GitHub:** [https://github.com/Manav0344](https://github.com/Manav0344)  
 
+<img width="1360" height="693" alt="screencapture-127-0-0-1-5500-index-html-2026-01-05-18_46_30" src="https://github.com/user-attachments/assets/d192a61b-f1ba-4e19-a6e7-3c10280a1749" />
